@@ -9,6 +9,7 @@ public class Animal {
     // コンストラクタ
     public Animal() {
 
+
         }
 
     // 引数ありコンストラクタ

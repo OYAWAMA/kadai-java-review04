@@ -17,6 +17,7 @@ public class Review04 {
         sato.say();
         sato.think();
 
+
     }
 
 }

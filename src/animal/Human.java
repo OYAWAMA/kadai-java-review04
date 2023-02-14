@@ -7,6 +7,7 @@ public class Human extends Animal implements Thinkable {
         return hobby;
     }
 
+
     public void setHobby(String hobby) {
         this.hobby = hobby;
     }
